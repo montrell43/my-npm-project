@@ -2,7 +2,7 @@ const express = require('express');
 const path = require('path');
 const app = express();
 
-app.get('/', (req, res) => {
+app.get('/package.json', (req, res) => {
   res.send('Jane Doe');
 });
 
