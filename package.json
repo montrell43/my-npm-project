@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Jane Doe",
+  "author": "montrel",
   "license": "ISC",
   "dependencies": {
     "express": "^5.1.0"
