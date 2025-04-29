@@ -1,15 +1,11 @@
 {
-  "name": "my-npm-project",
+  "name": "fcc-learn-npm-package-json",
   "version": "1.0.0",
+  "description": "A project that does something awesome",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [],
   "author": "Jane Doe",
-  "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "express": "^5.1.0"
-  }
+  "license": "ISC"
 }
