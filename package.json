@@ -6,9 +6,19 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "montrel",
+  "author": "montrel tee",
   "license": "ISC",
   "dependencies": {
     "express": "^5.1.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/montrell43/my-npm-project.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/montrell43/my-npm-project/issues"
+  },
+  "homepage": "https://github.com/montrell43/my-npm-project#readme"
 }
